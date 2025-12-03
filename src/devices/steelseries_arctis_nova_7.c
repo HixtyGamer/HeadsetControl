@@ -18,7 +18,7 @@ static struct device device_arctis;
 #define ID_ARCTIS_NOVA_7_DIABLO_IV 0x223a
 #define ID_ARCTIS_NOVA_7_WOW_ED    0x227a
 
-#define BATTERY_MAX 0x04
+#define BATTERY_MAX 0x64
 #define BATTERY_MIN 0x00
 
 #define HEADSET_OFFLINE 0x00
